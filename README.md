@@ -1,16 +1,34 @@
-### Hi there 👋
+# Your Name
 
-<!--
-**sankalp-r/sankalp-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello! I'm Sankalp Rangare, a passionate Senior Software Engineer.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend Developer with 6+ years of experience, honed skills in designing, developing, and maintaining large-scale sys- tems capable of handling high traffic and throughput. Possesses excellent collaboration skills, adaptability, and a focus on delivery, thriving in projects of all scales. Fosters inclusivity, mentors team members, and drives innovation and effi- ciency, consistently exceeding expectations for overall project success.
+
+
+## Skills
+
+- Go, Java, Python, Bash, LATEX, AWS, GCP, Docker, Kubernetes, Kubernetes API, Kubernetes Operators, Elastic- search, Kibana, Prometheus, Grafana, MongoDB, Helm, gRPC, SAP SYBASE ,PostgreSQL, MySQL, Redis, MinIO, Agile, Linux, CI/CD, Git, Github, Fluentd/Fluentbit
+
+## Education
+
+- Masters degree, Computer Science, IIT Bombay, 2017
+
+## Open source Contributions
+
+- [Loki](https://github.com/grafana/loki/pull/4495)
+- [Machine controller](https://github.com/kubermatic/machine-controller)
+- [Podman](https://github.com/containers/podman/pull/11609)
+- [Agones](https://github.com/googleforgames/agones/pull/2288)
+- [Linkerd](https://github.com/linkerd/linkerd2/pull/7076)
+- [Knative](https://github.com/knative/docs/pull/4162)
+- [Kubevirt](https://github.com/kubevirt/cloud-provider-kubevirt/pull/86)
+- [TiDB](https://github.com/pingcap/tidb/pull/28452)
+- [Kubermatic](https://github.com/kubermatic/kubermatic)
+
+
+## Contact
+
+- 📧 Email: sankalprangare786@gmail.com
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sankalp-rangare/)  
