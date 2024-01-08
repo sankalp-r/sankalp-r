@@ -18,6 +18,7 @@ Backend Developer with 6+ years of experience, honed skills in designing, develo
 ## Open source Contributions
 
 - [Loki](https://github.com/grafana/loki/pull/4495)
+- [Okteto](https://github.com/okteto/okteto/pull/3635)
 - [Machine controller](https://github.com/kubermatic/machine-controller)
 - [Podman](https://github.com/containers/podman/pull/11609)
 - [Agones](https://github.com/googleforgames/agones/pull/2288)
