@@ -4,12 +4,12 @@
 
 ## About Me
 
-Backend Developer with 6+ years of experience, honed skills in designing, developing, and maintaining large-scale sys- tems capable of handling high traffic and throughput. Possesses excellent collaboration skills, adaptability, and a focus on delivery, thriving in projects of all scales. Fosters inclusivity, mentors team members, and drives innovation and effi- ciency, consistently exceeding expectations for overall project success.
+Backend Developer with 6+ years of experience, honed skills in designing, developing, and maintaining large-scale systems capable of handling high traffic and throughput. Possesses excellent collaboration skills, adaptability, and a focus on delivery, thriving in projects of all scales. Fosters inclusivity, mentors team members, and drives innovation and efficiency, consistently exceeding expectations for overall project success.
 
 
 ## Skills
 
-- Go, Java, Python, Bash, LATEX, AWS, GCP, Docker, Kubernetes, Kubernetes API, Kubernetes Operators, Elastic- search, Kibana, Prometheus, Grafana, MongoDB, Helm, gRPC, SAP SYBASE ,PostgreSQL, MySQL, Redis, MinIO, Agile, Linux, CI/CD, Git, Github, Fluentd/Fluentbit
+- Go, Java, Python, Bash, LATEX, AWS, GCP, Docker, Kubernetes, Kubernetes API, Kubernetes Operators, Elastic- search, Kibana, Prometheus, Grafana, MongoDB, Helm, gRPC, SAP SYBASE ,PostgreSQL, MySQL, Redis, MinIO, Agile, Linux, CI/CD, Git, Github, Fluentd/Fluentbit, Concourse CI/CD
 
 ## Education
 
