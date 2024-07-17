@@ -4,7 +4,7 @@
 
 ## About Me
 
-Backend Developer with 6+ years of experience, honed skills in designing, developing, and maintaining large-scale systems capable of handling high traffic and throughput. Possesses excellent collaboration skills, adaptability, and a focus on delivery, thriving in projects of all scales. Fosters inclusivity, mentors team members, and drives innovation and efficiency, consistently exceeding expectations for overall project success.
+Backend Developer with 7+ years of experience, honed skills in designing, developing, and maintaining large-scale systems capable of handling high traffic and throughput. Possesses excellent collaboration skills, adaptability, and a focus on delivery, thriving in projects of all scales. Fosters inclusivity, mentors team members, and drives innovation and efficiency, consistently exceeding expectations for overall project success.
 
 
 ## Skills
