@@ -28,6 +28,8 @@ Backend Developer with 7+ years of experience, honed skills in designing, develo
 - [TiDB](https://github.com/pingcap/tidb/pull/28452)
 - [Kubermatic](https://github.com/kubermatic/kubermatic)
 
+## Blogs
+- [Optimizing your container registry](https://www.digitalocean.com/blog/garbage-collection-digitalocean-container-registry)
 
 ## Contact
 
